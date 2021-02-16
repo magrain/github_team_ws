@@ -128,9 +128,10 @@
 	/* 演習の編集範囲 はじめ */
 
 	/* 演習1 ここから */
+	function add() {}
+
 	function sub() {}
 
-  function add() {}
 
   /* 演習1 ここまで */
 
