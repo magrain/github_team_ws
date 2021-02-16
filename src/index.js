@@ -129,7 +129,7 @@
 
 	/* 演習1 ここから */
 	function add() {}
-  function sub() {}
+	function sub() {}
 	/* 演習1 ここまで */
 
 	/* TODO: 演習2 以降は下記に自由に記入 */
